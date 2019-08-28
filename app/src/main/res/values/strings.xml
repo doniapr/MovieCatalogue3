@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Film</string>
+    <string name="tvshow">Serial Tv</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="poster">Poster</string>
+    <string name="title">Judul</string>
+    <string name="activity_detail">Detail</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Rating</string>
+    <string name="popularity">Popularitas</string>
+</resources>
